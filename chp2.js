@@ -19,7 +19,6 @@ function insertionSort(arr) {
 
 
 let array = [10, 1, 3,8, 20 , 5, 6];
-console.log("Tableau non trié:", array);
 
 let sortedArray = insertionSort(array);
 console.log("Tableau trié:", sortedArray);
